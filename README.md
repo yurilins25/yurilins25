@@ -1,6 +1,5 @@
 ## Greetings, traveler! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-<code><img src="mysrc" alt="200" border="0"></code>
+[![Hello](https://github.com/yurilins25/yurilins/blob/master/hanekawa.gif)](https://yurilins25.github.io/yurilins/)
 
 Me chamo Yuri e codar é meu estilo de vida 😎
 
