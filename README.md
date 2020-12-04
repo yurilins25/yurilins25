@@ -11,14 +11,13 @@ Me chamo Yuri e codar é meu estilo de vida 😎
 
 **Languages and Tools:**<br>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript"></code>
-<code><img height="50" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" alt="Node.js"></code>
-<code><img height="50" src="https://i.ibb.co/FHVR76K/microsoft-excel-2019-v1.png" alt="Excel" border="0"></code>
+<code><img height="50" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node.js"></code>
 
 ![yurilins25 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yurilins25)
 
 **You can also find me at:**
 
-Contact :iphone:
+:iphone: Contact
 
 [![Gmail: yurilins25](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yuri.lins25@gmail.com)](mailto:yuri.lins25@gmail.com)
 
