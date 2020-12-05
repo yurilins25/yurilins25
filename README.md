@@ -19,7 +19,7 @@ Me chamo Yuri e codar é meu estilo de vida 😎
 <code><img height="50" src="https://www.brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="C Sharp"></code>
 
 
-![yurilins25 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yurilins25)
+![yurilins25 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@memio)
 
 **You can also find me at:**
 
