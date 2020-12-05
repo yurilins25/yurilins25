@@ -8,9 +8,10 @@ Me chamo Yuri e codar é meu estilo de vida 😎
 - :seedling: No meu tempo livre, gosto de me especializar em tecnologias que fogem do meu cotidiano profissional, pesquisando e praticando muito
 - :mortar_board: Atualmente sou formado em Sistemas de Informação.
 
-**Languages and Tools:**<br><br>
+**Stack favorita:**<br><br>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript"></code>
-<code><img height="50" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node.js"></code>
+<code><img height="50" src="https://miro.medium.com/max/2400/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Typescript"></code>
+<code><img height="50" src="https://imgur.com/gmibHvh.png" alt="Node.js"></code>
 <code><img height="50" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"></code>
 <code><img height="50" src="https://vuejs.org/images/logo.png" alt="VueJS"></code>
