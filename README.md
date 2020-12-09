@@ -26,7 +26,3 @@ Me chamo Yuri e codar é meu estilo de vida 😎
 :iphone: Contact
 
 [![Gmail: yurilins25](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yuri.lins25@gmail.com)](mailto:yuri.lins25@gmail.com)
-
-Social :speech_balloon:
-
-[![Linkedin: yurilins25](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomaranda/)](https://www.linkedin.com/in/yurilins25/)
