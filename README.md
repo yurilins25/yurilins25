@@ -1,11 +1,11 @@
 ## Greetings, traveler! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 [![Hello](https://github.com/yurilins25/yurilins/blob/master/hanekawa.gif)](https://yurilins25.github.io/yurilins/)
 
-<span align="center" font-style="italic">
+<p align="center" font-style="italic">
   <em>
     Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema
   </em>
-</span>
+</p>
 
 <h4>Sobre minha pessoa 🙃</h4>
 
