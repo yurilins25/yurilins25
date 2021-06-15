@@ -16,15 +16,4 @@
 <code><img height="50" src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" alt="Storybook"></code>
 <code><img height="50" src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png" alt="SASS"></code>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=memio&layout=compact"/>
-
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   23 hrs 50 mins  █████████████████████░░░░   83.91 % 
-HTML         3 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-JSON         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-JavaScript   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-SCSS         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-```
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=memio&langs_count=5&layout=compact"/>
